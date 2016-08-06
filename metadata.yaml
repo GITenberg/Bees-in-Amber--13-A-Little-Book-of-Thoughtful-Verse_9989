@@ -1,0 +1,26 @@
+_repo: Bees-in-Amber--13-A-Little-Book-of-Thoughtful-Verse_9989
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oxenham, John
+    alias: Dunkerley, William Arthur
+    birthdate: 1852
+    deathdate: 1941
+    gutenberg_agent_id: '3234'
+    url: http://www.gutenberg.org/2009/agents/3234
+    wikipedia: http://en.wikipedia.org/wiki/John_Oxenham
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+- GITenberg
+title: 'Bees in Amber: A Little Book of Thoughtful Verse'
+url: http://www.gutenberg.org/ebooks/9989
